@@ -3,9 +3,10 @@
 A new Flutter project.
 ## Screenshots
 
+
 <p align="center">
-  <img src="screenshots%20(1).jpg" width="250"/>
-  <img src="screenshots%20(2).jpg" width="250"/>
+  <img src="screenshots%20(1).png" width="250"/>
+  <img src="screenshots%20(2).png" width="250"/>
 </p>
 ## Getting Started
 
